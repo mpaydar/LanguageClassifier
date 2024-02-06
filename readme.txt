@@ -1,4 +1,4 @@
-# Polyphonic AI: Multilingual Music Selector 
+# Polyphonic AI: Multilingual Music Selector  ( English, Spanish , Dutch)
 
 This is my personal ongoing project and I am in the progress of making the web application that is going to use the data model to dynamically understand the specified language user is typing and
 
